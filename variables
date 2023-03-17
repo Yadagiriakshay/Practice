@@ -1,0 +1,14 @@
+name=123
+poi=123
+
+print(id(name))
+print(id(poi))
+#constarints
+PI=3.14
+print(id(PI))
+PI=3.15
+print(id(PI))
+#type
+print(type(PI))
+print(type(name))
+
